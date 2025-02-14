@@ -1,6 +1,4 @@
-Here’s a **detailed README.md** for your GitHub repository, structured to showcase the business case study with technical depth, strategic use of the **R1 model (Reasoning-First Framework)**, and actionable insights. I’ll format this for GitHub and include code snippets, workflows, and visualizations.
 
----
 
 ```markdown
 # AI Model Performance Tracking & Insights Generation  
